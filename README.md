@@ -1,2 +1,11 @@
-# Credit-card-fraud-project
-"A CLI-based Machine Learning application that uses a Random Forest Classifier built with Python and Scikit Learn. It analyzes transaction metrics to accurately detect fraudulent credit card activity, handling imbalanced data for reliable predictions."
+# Credit Card Fraud Detection CLI
+
+## Setup Instructions
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Run the application from the root directory:
+   ```bash
+   python src/main.py
+   ```
